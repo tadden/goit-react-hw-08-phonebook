@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/HomePage/HomePage.js"],"names":["HomePage"],"mappings":"0MAAe,SAASA,IACtB,OAAO","file":"static/js/HomePage.f60ed9a7.chunk.js","sourcesContent":["export default function HomePage() {\r\n  return <h1>We'll save your contacts!</h1>;\r\n}\r\n"],"sourceRoot":""}
